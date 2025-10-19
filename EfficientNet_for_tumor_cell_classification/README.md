@@ -1,1 +1,2 @@
-
+Deep Learning for Blood Cell Classification
+This project focuses on the automatic classification of blood cell images into eight categories using deep learning. The final solution employs EfficientNetB0 with transfer learning, Global Average Pooling, and a robust data augmentation pipeline (including CutMix). The model achieved strong generalization on unseen data, demonstrating the effectiveness of transfer learning and well-tuned augmentations for biomedical image analysis.
